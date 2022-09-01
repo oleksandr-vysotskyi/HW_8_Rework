@@ -1,0 +1,23 @@
+{
+  "name": "hw_8_rework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SashaVys93/HW_8_Rework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SashaVys93/HW_8_Rework/issues"
+  },
+  "homepage": "https://github.com/SashaVys93/HW_8_Rework#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
