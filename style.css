@@ -130,7 +130,7 @@ a:hover {
 /* Banner */
 .banner {
     padding: 182px 0;
-    background-image: url('../img/banner.jpg');
+    background-image: url('img/banner.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
